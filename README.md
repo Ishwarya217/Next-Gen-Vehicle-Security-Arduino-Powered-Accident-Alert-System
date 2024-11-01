@@ -22,16 +22,16 @@ This project aims to improve vehicle safety by detecting accidents and sending i
 ## Circuit Diagram
 Below is the circuit diagram for the Arduino-based accident alert system:
 
-![Circuit Diagram](images/circuit_diagram.jpg)
+![Circuit Diagram](circuit_diagram.jpg)
 
 
 
 ## Working Model
 Below is the working model of the accident alert system:
 
-![Working Model](images/working_model.jpg)
+![Working Model](working_model.jpg)
 
 ## Project Output
 Here’s a screenshot of the system detecting an accident and sending an SMS alert:
 
-![Accident Alert Output](images/output_screenshot.jpg)
+![Accident Alert Output](output_screenshot.jpg)
