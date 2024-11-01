@@ -18,11 +18,12 @@ This project aims to improve vehicle safety by detecting accidents and sending i
 5. LCD Display.
 6. Switch
 7. Power Supply and Connecting Wires
-
+   
 ## Circuit Diagram
-Below is the Circuit diagram of the accident alert system:
+Below is the circuit diagram for the Arduino-based accident alert system:
 
-(images/circuit_diagram.jpg)_
+![Circuit Diagram](images/circuit_diagram.jpg)
+
 
 
 ## Working Model
